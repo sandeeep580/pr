@@ -1,1 +1,3 @@
 this is first file
+
+some one else has made some changes in one.txt file
